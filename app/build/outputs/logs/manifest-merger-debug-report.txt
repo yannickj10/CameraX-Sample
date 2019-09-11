@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/3e8cc9cffea758547c3a4b3471470ff3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a070a97986274243cc40fcc56491501a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/41db264e0be754a687d1e981c826c7f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9f70e44966dad6d918afc9a3f27dd64f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e37772f4c5adfbbeb251cc24c4cb610d/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/46c8c56d3d1f404a35eef42b50411fee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/91237b08e8b57a3726a89a2df2601054/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c8ad873212e45f48b098538172b391ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/704ff3e35f20ec63481c16e0833f685a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/2d4f9db1218e2edda0c030268cccef8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/62186b9af8350841ae5325e10073d1fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/ed48a88117c45720d7b1f9b1c63e3976/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f9ca5419ef50445313ae172d47cc9b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d2278fd231753c356ccd1dba418e8c89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8021f751f11bc905e10fc454431661a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/5193be746a15a855169fbed2680a49b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/34946cd1970110e5507f728e97b41536/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f72292ceaa065f7bb51fddff39142726/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f8236917bf784b1550958180b68222f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1a775ac1604f923a8c4911f46eaf15ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9a8cac566f96225cb813c533c2bc9e98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b5b2c4320a68f014d4890cb408d0d50c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c814b51118628adab5598913ffe14850/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a3925b7d1e81298b2ffa1549199f1bf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d652e257000b7e3e5a409bfb79e3cff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8aa8912a87b11d9e377c26b976fbb801/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/292373567fd51d9a9ee622c4c013db60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/03e457d2ee1fd130d5c772af5cbad314/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d6ec05f39c7b241a8d36df2d99157f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/6c2c9d771739d4e9daa3abefbdee89f8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d8981f701c06868078c67159a693e5f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1b73446fd5626440480c90f63bffa09e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/66ae62fc86bfec2b34591c72469d4a6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e043f2def2a903de48fd35354ec61294/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/af3b170f0ad30e7cd15daaec17ae21e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9446baebe8e5528c694cb06d13894519/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/7298daa603a08a6ce0c12464fa0c1e43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/be1d65e3ee7dcdbb75278cd3943d82d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/38568649ba8cb99445de85e138b3c1bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f5e9405502aec38355026ac12b8031d3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:3:58-75
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:5:22-62
+application
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a070a97986274243cc40fcc56491501a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a070a97986274243cc40fcc56491501a/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e37772f4c5adfbbeb251cc24c4cb610d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e37772f4c5adfbbeb251cc24c4cb610d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/6c2c9d771739d4e9daa3abefbdee89f8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/6c2c9d771739d4e9daa3abefbdee89f8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:10:13-45
+	tools:ignore
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:13:13-64
+	android:roundIcon
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:12:13-44
+activity#fr.yannick.camerax_sample.MainActivity
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:screenOrientation
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:16:17-53
+	android:name
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:15:17-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/3e8cc9cffea758547c3a4b3471470ff3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/3e8cc9cffea758547c3a4b3471470ff3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a070a97986274243cc40fcc56491501a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a070a97986274243cc40fcc56491501a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/41db264e0be754a687d1e981c826c7f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/41db264e0be754a687d1e981c826c7f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9f70e44966dad6d918afc9a3f27dd64f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9f70e44966dad6d918afc9a3f27dd64f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e37772f4c5adfbbeb251cc24c4cb610d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e37772f4c5adfbbeb251cc24c4cb610d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/46c8c56d3d1f404a35eef42b50411fee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/46c8c56d3d1f404a35eef42b50411fee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/91237b08e8b57a3726a89a2df2601054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/91237b08e8b57a3726a89a2df2601054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c8ad873212e45f48b098538172b391ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c8ad873212e45f48b098538172b391ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/704ff3e35f20ec63481c16e0833f685a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/704ff3e35f20ec63481c16e0833f685a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/2d4f9db1218e2edda0c030268cccef8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/2d4f9db1218e2edda0c030268cccef8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/62186b9af8350841ae5325e10073d1fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/62186b9af8350841ae5325e10073d1fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/ed48a88117c45720d7b1f9b1c63e3976/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/ed48a88117c45720d7b1f9b1c63e3976/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f9ca5419ef50445313ae172d47cc9b1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f9ca5419ef50445313ae172d47cc9b1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d2278fd231753c356ccd1dba418e8c89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d2278fd231753c356ccd1dba418e8c89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8021f751f11bc905e10fc454431661a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8021f751f11bc905e10fc454431661a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/5193be746a15a855169fbed2680a49b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/5193be746a15a855169fbed2680a49b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/34946cd1970110e5507f728e97b41536/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/34946cd1970110e5507f728e97b41536/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f72292ceaa065f7bb51fddff39142726/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f72292ceaa065f7bb51fddff39142726/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f8236917bf784b1550958180b68222f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f8236917bf784b1550958180b68222f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1a775ac1604f923a8c4911f46eaf15ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1a775ac1604f923a8c4911f46eaf15ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9a8cac566f96225cb813c533c2bc9e98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9a8cac566f96225cb813c533c2bc9e98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b5b2c4320a68f014d4890cb408d0d50c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b5b2c4320a68f014d4890cb408d0d50c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c814b51118628adab5598913ffe14850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/c814b51118628adab5598913ffe14850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a3925b7d1e81298b2ffa1549199f1bf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/a3925b7d1e81298b2ffa1549199f1bf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d652e257000b7e3e5a409bfb79e3cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d652e257000b7e3e5a409bfb79e3cff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8aa8912a87b11d9e377c26b976fbb801/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/8aa8912a87b11d9e377c26b976fbb801/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/88d75d4d1a0f3c31c7760234bf11d11f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/292373567fd51d9a9ee622c4c013db60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/292373567fd51d9a9ee622c4c013db60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/03e457d2ee1fd130d5c772af5cbad314/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/03e457d2ee1fd130d5c772af5cbad314/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d6ec05f39c7b241a8d36df2d99157f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/0d6ec05f39c7b241a8d36df2d99157f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/6c2c9d771739d4e9daa3abefbdee89f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/6c2c9d771739d4e9daa3abefbdee89f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d8981f701c06868078c67159a693e5f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/d8981f701c06868078c67159a693e5f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1b73446fd5626440480c90f63bffa09e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/1b73446fd5626440480c90f63bffa09e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/66ae62fc86bfec2b34591c72469d4a6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/66ae62fc86bfec2b34591c72469d4a6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e043f2def2a903de48fd35354ec61294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/e043f2def2a903de48fd35354ec61294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/af3b170f0ad30e7cd15daaec17ae21e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/af3b170f0ad30e7cd15daaec17ae21e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9446baebe8e5528c694cb06d13894519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/9446baebe8e5528c694cb06d13894519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/7298daa603a08a6ce0c12464fa0c1e43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/7298daa603a08a6ce0c12464fa0c1e43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/be1d65e3ee7dcdbb75278cd3943d82d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/be1d65e3ee7dcdbb75278cd3943d82d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/38568649ba8cb99445de85e138b3c1bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/38568649ba8cb99445de85e138b3c1bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f5e9405502aec38355026ac12b8031d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/f5e9405502aec38355026ac12b8031d3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yjacqueline/workspace/CameraXSample/app/src/main/AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:23:9-28:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:25:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:28:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:26:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] /Users/yjacqueline/.gradle/caches/transforms-2/files-2.1/b24827b6635eebbd745c09751230a93a/AndroidManifest.xml:24:13-75

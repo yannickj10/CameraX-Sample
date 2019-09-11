@@ -1,0 +1,7 @@
+#Wed Sep 11 23:48:00 CEST 2019
+base.0=/Users/yjacqueline/workspace/CameraXSample/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/yjacqueline/workspace/CameraXSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

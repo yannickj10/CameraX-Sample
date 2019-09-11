@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraX Sample</string>
+
+    <string name="switch_camera_button_alt">Switch camera</string>
+</resources>
